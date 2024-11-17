@@ -4,7 +4,7 @@
 
 **[Download the latest developer version](https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=2&dlc_id=2)** (the file FS22_gameplay_AutoLookAround.zip)
 
-**[FarmSim Website](https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php)**
+**[FarmSim Website](https://farmsim.bltfm.hu/infusions/bltfmhu_downloads_center/downloads.php?cat_id=1)**
 
 ## Description
 
